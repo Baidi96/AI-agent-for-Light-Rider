@@ -2,7 +2,7 @@
 
 *Authors: Di Bai, Yipeng He, Wantong Jiang*
 
-This is our final project for CS221 AI Fall 2018 at Stanford. 
+This is our final project for CS221 Fall 2018. 
 
 In this project, we implemented an AI agent for game Light Rider.
 The game is originally provided by [Riddles.io](https://playground.riddles.io/competitions/light-riders). 
