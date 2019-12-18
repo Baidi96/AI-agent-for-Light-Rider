@@ -1,6 +1,6 @@
 # AI Agent for Light Rider -- CS221 Final Project at Stanford
 
-*Authors: Yipeng He, Wantong Jiang, Di Bai*
+*Authors: Di Bai, Yipeng He, Wantong Jiang*
 
 This is our final project for CS221 AI Fall 2018 at Stanford. 
 
